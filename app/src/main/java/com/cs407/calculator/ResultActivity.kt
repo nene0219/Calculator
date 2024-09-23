@@ -23,6 +23,6 @@ class ResultActivity : AppCompatActivity() {
 
         // Find the TextView and display the passed data
         val resultTextView = findViewById<TextView>(R.id.resultTextView)
-        resultTextView.text = message
+        resultTextView.text = getString(R.string.result, message)
     }
 }

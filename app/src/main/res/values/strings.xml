@@ -3,5 +3,6 @@
     <string name="calculator">Calculator</string>
     <string name="enter_second_number">Enter second number</string>
     <string name="enter_first_number">Enter first number</string>
+    <string name="result">Result: %1$s</string>
 
 </resources>
